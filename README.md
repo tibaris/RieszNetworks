@@ -20,3 +20,15 @@ https://arxiv.org/pdf/2305.04665.pdf
  
   (RieszNet applied to classic MNIST LargeScale dataset: training + validation)
 
+
+
+- ##### RieszNet-crack-segmentation-2d
+
+
+
+- ##### RieszNet-crack-segmentation3d
+
+
+- ##### RieszNet-optimized
+
+  (New implementation that is optimized to run faster)
