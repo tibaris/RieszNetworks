@@ -7,4 +7,11 @@ https://arxiv.org/pdf/2305.04665.pdf
 
 ## Notebooks with short descriptions:
 
+- RieszNet-MNIST
+  (RieszNet applied to classic MNIST dataset: training + validation)
+  Test accuracy:
+  Number of parameters: 20k
+
+-
+  
 
