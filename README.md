@@ -15,7 +15,8 @@ https://arxiv.org/pdf/2305.04665.pdf
   
   Number of parameters: 20k
 
+
 - ##### RieszNet-MNISTLargeScale
-- 
+ 
   (RieszNet applied to classic MNIST LargeScale dataset: training + validation)
 
