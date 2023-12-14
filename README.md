@@ -11,9 +11,9 @@ https://arxiv.org/pdf/2305.04665.pdf
   
   (RieszNet applied to classic MNIST dataset: training + validation)
   
-  Test accuracy:
+  Test accuracy (after 20 epochs): 98.78%
   
-  Number of parameters: 20k
+  Number of parameters: 20,882
 
 
 - ##### RieszNet-MNISTLargeScale
