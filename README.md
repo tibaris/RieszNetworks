@@ -22,6 +22,9 @@ https://arxiv.org/pdf/2305.04665.pdf
 
   RieszNet applied to classic MNIST LargeScale dataset: training + validation
 
+  Model is trained on 5000 images.
+  Test accuracies on selected scales: % (scale 0.5), % (scale 1), % (scale 2),  % (scale 4), % (scale 8).
+  For accuracies on the full dataset check the paper:  96.34% (scale 0.5), 98.58% (scale 1), 98.39% (scale 2),  96.42% (scale 4), 51.82% (scale 8).
 
 
 - ##### RieszNet-crack-segmentation-2d
