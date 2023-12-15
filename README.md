@@ -8,6 +8,8 @@ https://arxiv.org/pdf/2305.04665.pdf
 ### Notebooks with short descriptions:
 
 - ##### RieszNet-MNIST 
+
+  (version: 14.12.2023)
   
   (RieszNet applied to classic MNIST dataset: training + validation)
   
@@ -17,7 +19,9 @@ https://arxiv.org/pdf/2305.04665.pdf
 
 
 - ##### RieszNet-MNISTLargeScale
- 
+
+  (version: 14.12.2023)
+
   (RieszNet applied to classic MNIST LargeScale dataset: training + validation)
 
 
