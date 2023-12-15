@@ -29,6 +29,3 @@ https://arxiv.org/pdf/2305.04665.pdf
 - ##### RieszNet-crack-segmentation3d
 
 
-- ##### RieszNet-optimized
-
-  (New implementation that is optimized to run faster)
