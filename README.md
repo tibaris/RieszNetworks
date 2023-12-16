@@ -18,12 +18,12 @@ https://arxiv.org/pdf/2305.04665.pdf
 
 
 - ##### RieszNet-MNISTLargeScale
-  (version: 14.12.2023)
+  (version: 16.12.2023)
 
   RieszNet applied to classic MNIST LargeScale dataset: training + testing
 
-  Model is trained on 5000 images for 20 epochs.
-  Test accuracies on selected scales: % (scale 0.5), 94.75% (scale 1), 94.47% (scale 2),  92.12% (scale 4), 55.87% (scale 8).
+  Example model is trained on 5000 images for 20 epochs.
+  Test accuracies on selected scales: 88.31% (scale 0.5), 94.75% (scale 1), 94.47% (scale 2),  92.12% (scale 4), 55.87% (scale 8).
   
   For accuracies on the full dataset check the paper:  96.34% (scale 0.5), 98.58% (scale 1), 98.39% (scale 2),  96.42% (scale 4), 51.82% (scale 8).
 
