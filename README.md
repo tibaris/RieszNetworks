@@ -36,6 +36,6 @@ https://arxiv.org/pdf/2305.04665.pdf
   ###### Testing scale generalization:
   Trained on crack width 3. Tested on variety of simulated and real cracks of various widths. 
 
-- ### RieszNet-crack-segmentation3d
+- ### RieszNet-crack-segmentation-3d
 
 
