@@ -1,13 +1,13 @@
 # RieszNetworks
 
-### Code from paper:
+## Code from paper:
 Barisin, T., Schladitz, K., & Redenbach, C. (2023). Riesz networks: scale invariant neural networks in a single forward pass. 
 https://arxiv.org/pdf/2305.04665.pdf
 
 
-### Notebooks with short descriptions:
+## Notebooks with short descriptions:
 
-- ##### RieszNet-MNIST 
+- ### RieszNet-MNIST 
   (version: 14.12.2023)
   
   RieszNet applied to classic MNIST dataset: training + testing
@@ -17,10 +17,10 @@ https://arxiv.org/pdf/2305.04665.pdf
   Number of parameters: 20,882
 
 
-- ##### RieszNet-MNISTLargeScale
+- ### RieszNet-MNISTLargeScale
   (version: 16.12.2023)
 
-  RieszNet applied to classic MNIST LargeScale dataset: training + testing
+  RieszNet applied to classic MNIST LargeScale dataset: training (on scale 1) + testing (on scales 0.5-8)
 
   Example model is trained on 5000 images for 20 epochs.
   Test accuracies on selected scales: 88.31% (scale 0.5), 94.75% (scale 1), 94.47% (scale 2),  92.12% (scale 4), 55.87% (scale 8).
@@ -28,10 +28,14 @@ https://arxiv.org/pdf/2305.04665.pdf
   For accuracies on the full dataset check the paper:  96.34% (scale 0.5), 98.58% (scale 1), 98.39% (scale 2),  96.42% (scale 4), 51.82% (scale 8).
 
 
-- ##### RieszNet-crack-segmentation-2d
+- ### RieszNet-crack-segmentation-2d
+  (version: 18.12.2023)
 
+  RieszNet for crack segmentation of cracks in CT images of concrete : remake of the model from the paper
 
+  ###### Testing scale generalization:
+  Trained on crack width 3. Tested on variety of simulated and real cracks of various widths. 
 
-- ##### RieszNet-crack-segmentation3d
+- ### RieszNet-crack-segmentation3d
 
 
