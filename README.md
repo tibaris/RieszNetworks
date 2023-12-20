@@ -42,7 +42,7 @@ https://doi.org/10.26204/KLUEDO/7408
 
 - ### RieszNet-crack-segmentation-3d
   (version 20.12.2023)
- 
+
  RieszNet for crack segmentation of cracks on 3d CT images of concrete: remake of the model from the thesis with some examples.
  Model was trained on crack width 3.  
 
