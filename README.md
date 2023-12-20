@@ -31,7 +31,7 @@ https://arxiv.org/pdf/2305.04665.pdf
 - ### RieszNet-crack-segmentation-2d
   (version: 18.12.2023)
 
-  RieszNet for crack segmentation of cracks in CT images of concrete : remake of the model from the paper
+  RieszNet for crack segmentation of cracks in CT images of concrete: remake of the model from the paper
 
   ###### Testing scale generalization:
   Trained on crack width 3. Tested on variety of simulated and real cracks of various widths. 
