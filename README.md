@@ -4,6 +4,10 @@
 Barisin, T., Schladitz, K., & Redenbach, C. (2023). Riesz networks: scale invariant neural networks in a single forward pass. 
 https://arxiv.org/pdf/2305.04665.pdf
 
+### PhD thesis: 
+Barisin, T. (2023). Methods for scale and orientation invariant analysis of lower dimensional structures in 3d images (Doctoral dissertation, Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau).
+https://doi.org/10.26204/KLUEDO/7408
+
 
 ## Notebooks with short descriptions:
 
@@ -31,11 +35,11 @@ https://arxiv.org/pdf/2305.04665.pdf
 - ### RieszNet-crack-segmentation-2d
   (version: 18.12.2023)
 
-  RieszNet for crack segmentation of cracks in CT images of concrete: remake of the model from the paper
+  RieszNet for crack segmentation of cracks on 2d slices cropped from CT images of concrete: remake of the model from the paper.
 
   ###### Testing scale generalization:
   Trained on crack width 3. Tested on variety of simulated and real cracks of various widths. 
 
 - ### RieszNet-crack-segmentation-3d
-
+ RieszNet for crack segmentation of cracks on 3d CT images of concrete: remake of the model from the thesis.
 
