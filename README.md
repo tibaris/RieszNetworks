@@ -1,8 +1,8 @@
 # RieszNetworks
 
 ## Code from paper:
-Barisin, T., Schladitz, K., & Redenbach, C. (2023). Riesz networks: scale invariant neural networks in a single forward pass. 
-Journal of Mathematical Imaging and Vision, accepted for publication. 
+Barisin, T., Schladitz, K. & Redenbach, C. Riesz Networks: Scale-Invariant Neural Networks in a Single Forward Pass. J Math Imaging Vis (2024). 
+https://doi.org/10.1007/s10851-024-01171-4
 https://arxiv.org/pdf/2305.04665.pdf
 
 ### PhD thesis: 
