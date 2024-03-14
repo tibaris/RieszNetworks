@@ -1,4 +1,4 @@
-# RieszNetworks
+# Riesz Networks
 
 ## Code from paper:
 Barisin, T., Schladitz, K. & Redenbach, C. Riesz Networks: Scale-Invariant Neural Networks in a Single Forward Pass. J Math Imaging Vis (2024). 
